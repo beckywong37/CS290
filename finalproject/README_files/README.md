@@ -1,13 +1,15 @@
 Assignment: CS290 Final Project
+
 Name: Becky Wong
+
 Due Date: March 19, 2024
 
 For my final project, I created a F1 informative website with multiple webpages, including ones from previous assignments as well as new ones I added for the final project.
 
 I reorganized my code into 3 main folders:
-1.) README_files: This includes this readme file about the final project, review of the 5 assignments, and review of the 5 websites I chose to review in the beginning of the term in assignment 1.
-2.) static: includes images used in my websites, css styles, and any javascripts
-3.) templates: includes html files for all webpages
+- README_files: This includes this readme file about the final project, review of the 5 assignments, and review of the 5 websites I chose to review in the beginning of the term in assignment 1.
+- static: includes images used in my websites, css styles, and any javascripts
+- templates: includes html files for all webpages
 Lastly, the flask_app.py is the main file that includes routes to different pages of my website and creates instances of "GrandPrixs" with routes to retrieve race details.
 
 Here is what was refactored in my previous webpages:
